@@ -137,7 +137,7 @@ main{
 .subport{
   display: flex;
   flex-direction: row;
-  overflow-x: scroll;
+  overflow-x: hidden;
   margin: 30px 0px 10px 0px;
   align-items: center;
   align-content: center;
